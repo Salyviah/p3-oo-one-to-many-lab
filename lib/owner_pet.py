@@ -1,4 +1,3 @@
-# owner_pet.py
 from pet import Pet
 
 class Owner:
